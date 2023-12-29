@@ -1,7 +1,7 @@
 ### Hi I'm Vidhi Raval 👋
 
 - 🔭 I’m currently studying Computer Engineering 🎮
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning NodeJS
 
 ### Languages
 
